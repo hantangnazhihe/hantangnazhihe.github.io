@@ -212,16 +212,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
@@ -230,7 +230,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: # posts
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -277,9 +277,9 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: # talk
-      author_profile: false
-      share: false
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
