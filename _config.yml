@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "寒塘那只鹤的空间"
+title                    : "寒塘那只鹤"
 title_separator          : "-"
 name                     : &name "寒塘那只鹤"
-description              : &description "一只喜欢唱歌的鹤"
+description              : &description "无善无恶心之体，有善有恶意之动，知善知恶是良知，为善去恶是格物。"
 url                      : https://hantangnazhihe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hantangnazhihe/hantangnazhihe.github.io"
