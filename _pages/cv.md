@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "简历"
+title: "简介"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,9 +16,7 @@ redirect_from:
 工作经验
 ======
 * 高通企业管理（上海）有限公司
-  
-技能
-======
+
 
 
 
